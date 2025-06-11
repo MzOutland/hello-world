@@ -1,2 +1,3 @@
 # hello-world
-I am excited to be learning more about github. I love the outdoors. It is so hard for me to stay inside on nice  days. 
+I am learning more about Git and Github. I love to learn new things, especially technology.  I want to learn more about programming. I enjoy the outdoors. 
+
